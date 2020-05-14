@@ -1,0 +1,5 @@
+# Proyecto fina opencv
+
+version Python ->  3.7.7
+
+
